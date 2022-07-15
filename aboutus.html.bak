@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Kelsby</title>
+</head>
+
+<body style="background-color:papayawhip;">
+<h1>Welcome to Kelsby</h1>
+<hr>
+<p>This is the new coffee shop</p>
+
+<a href="../coffee-shop-project/index.html">Home</a>
+<a href="../coffee-shop-project/aboutus.html">About Us</a>
+<a href="../coffee-shop-project/contactus.html">Our Menu</a>
+<a href="../coffee-shop-project/findus.html">Find Us</a>
+<a href="../coffee-shop-project/ourmenu.html">Contact Us</a>
+
+
+<h1 style="text-align:center;">About us</h1>
+<blockquote style="text-align:center;"> 
+We have been an established coffee shop since 1981, and now have more than 400 shops nationwide, and serve 1,000,000 customers per day. Our customers favourite coffee is a flat white, and we use out own roasted blend. Try your coffee with any variety of milk for no extra charge. All shops have air conditioning, and ample seating. Give us a try, and it might be the best thing you've ever done. 
+</blockquote>
+
+</body>
+
+</html>
